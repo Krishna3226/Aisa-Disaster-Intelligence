@@ -26,11 +26,6 @@ severity across Asia on a 0–10 scale.
 pip install streamlit pandas numpy scikit-learn plotly pillow opencv-python joblib
 streamlit run app.py
 
-## Team
-- [Your Name] — ML Models, Prediction Engine, Image Analysis
-- [Member 2 Name] — Data Pipeline, Historical Analytics
-- [Member 3 Name] — Frontend, System Architecture
-
 ## Dataset
 EM-DAT International Disaster Database — filtered to Asia, 
 floods and storms, 2000–2025.
